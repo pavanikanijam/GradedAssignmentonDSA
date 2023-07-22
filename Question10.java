@@ -21,7 +21,7 @@ class stu_dent1{
    }
 }
 
-public class JavaPriorityQueue {
+public class JavaPriority_Queue {
 
   public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
